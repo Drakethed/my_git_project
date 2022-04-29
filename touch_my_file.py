@@ -1,3 +1,3 @@
-#this is my git project
+print('Hi git')
 
-> my code for the git project
+print('Hi from another user')
